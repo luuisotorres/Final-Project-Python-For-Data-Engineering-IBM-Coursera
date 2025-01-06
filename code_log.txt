@@ -1,0 +1,48 @@
+[2025-01-03 19:30:18] ETL Script started!
+
+[2025-01-03 19:30:18] Starting Extract phase...
+
+[2025-01-03 19:30:19] Extract phase completed!
+
+[2025-01-03 19:30:19] Starting Transform phase...
+
+[2025-01-03 19:30:19] Transform phase completed!
+
+[2025-01-03 19:30:19] Starting Load phase...
+
+[2025-01-03 19:30:19] Load phase completed!
+
+[2025-01-03 19:30:19] Saving table to SQLite database...
+
+[2025-01-03 19:30:19] DataFrame successfully loaded to Banks.db in table 'Largest_banks'!
+
+[2025-01-03 19:30:19] Running queries...
+
+[2025-01-03 19:30:19] Queries completed!
+
+[2025-01-03 19:30:19] Query: Count rows
+   row_count
+0         10
+
+[2025-01-03 19:30:19] Query: Top 5 MC_USD_Billion
+                                      Name  MC_USD_Billion
+0                           JPMorgan Chase          432.92
+1                          Bank of America          231.52
+2  Industrial and Commercial Bank of China          194.56
+3               Agricultural Bank of China          160.68
+4                                HDFC Bank          157.91
+
+[2025-01-03 19:30:19] Script finished!
+
+[2025-01-03 19:37:32] Starting Extract phase...
+
+[2025-01-03 19:37:33] Extract phase completed!
+
+[2025-01-03 19:38:52] Starting Transform phase...
+
+[2025-01-03 19:38:54] Transform phase completed!
+
+[2025-01-03 19:45:57] Running queries...
+
+[2025-01-03 19:45:57] Queries completed!
+
